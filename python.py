@@ -42,3 +42,17 @@ def myfunc2():
     lastname='ahmad'
 myfunc2()
 print ('my last name is: ',lastname)
+
+# Python Built-in Data Types
+x='waqar ahmad' #string 
+x=1 #int
+x=1.0 #float
+x=1j #complex
+x=['apple','mango','grapes'] #list
+x={'apple','mango','grapes'} #set
+x=('apple','mango','grapes') # tuple
+x= range(6)
+x={'name':'waqar','age':25} #dict
+x=True #bool
+x=b'hello' #bytes
+x=None #NoneType

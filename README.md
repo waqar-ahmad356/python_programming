@@ -20,3 +20,17 @@ If you have a collection of values in a list, tuple etc. Python allows you to ex
 <p><strong>Global Variables:</strong> Variables that are created outside of a function (as in all of the examples above) are known as global variables.
 Global variables can be used by everyone, both inside of functions and outside.
 <strong>Global keyword:</strong>  To create a global variable inside a function, you can use the global keyword.</p>
+
+<h3>Built in Data Types in Python</h3>
+<p>Variables can store data of different types, and different types can do different things.
+
+Python has the following data types built-in by default, in these categories:
+
+Text Type:	str
+Numeric Types:	int, float, complex
+Sequence Types:	list, tuple, range
+Mapping Type:	dict
+Set Types:	set, frozenset
+Boolean Type:	bool
+Binary Types:	bytes, bytearray, memoryview
+None Type:	NoneType</p>

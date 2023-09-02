@@ -1,5 +1,5 @@
 # python_programming
-<<br>
+<br>
 <h3> Python identation</h3>
 <br>
 <p>Indentation refers to the spaces at the beginning of a code line.
